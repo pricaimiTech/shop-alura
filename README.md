@@ -13,7 +13,7 @@ Você podera comprar itens de tecnologia no e-commerce Alura Shops
 
 ## Quer jogar ?
 
-Acesse o [Shop Alura]()
+Acesse o [Shop Alura](https://shop-alura.vercel.app/)
 
 <img src="./assets/game_img.png">
 
